@@ -1,0 +1,19 @@
+/content/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/root1.jpg 2,206,600,403,0
+/content/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/scan2.jpg 804,569,811,603,0 231,15,797,506,0
+/content/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/scan4.jpg 32,49,1025,592,0
+/content/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/scan3.jpg 550,108,1554,988,0
+/content/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/scan1.jpg 1183,42,3826,2680,0
+/content/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/root3.jpg 2,165,557,425,0
+/content/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/root5.jpg 107,31,428,469,0
+/content/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/root6.jpg 4,59,593,579,0
+/content/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/root4.jpg 279,221,600,430,0
+/content/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/root2.jpg 1,291,387,488,0 477,14,600,428,0 403,478,538,599,0
+/content/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/root8.jpg 25,1,562,600,0
+/content/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/root7.jpg 147,0,438,600,0
+/content/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/root9.jpg 43,7,580,554,0
+/content/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/worm1.jpg 5,59,596,429,1 5,59,596,429,0
+/content/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/worm2.jpg 7,75,575,551,1 7,75,575,551,0
+/content/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/worm6.jpg 9,248,582,416,1 9,248,582,416,0
+/content/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/worm5.jpg 15,238,162,404,1 15,238,162,404,0 358,144,582,380,1 358,144,582,380,0
+/content/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/worm3.jpg 157,129,435,550,1 157,129,435,550,0
+/content/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/worm4.jpg 224,60,444,563,1 224,60,444,563,0
