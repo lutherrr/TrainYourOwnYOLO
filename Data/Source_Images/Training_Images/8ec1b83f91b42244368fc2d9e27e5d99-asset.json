@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8ec1b83f91b42244368fc2d9e27e5d99",
+        "name": "root1.jpg",
+        "path": "file:/Users/lisek/Desktop/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/root1.jpg",
+        "size": {
+            "width": 600,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "eivUKzi-a",
+            "type": "RECTANGLE",
+            "tags": [
+                "root"
+            ],
+            "boundingBox": {
+                "height": 196.39071132596683,
+                "width": 598.1923342541436,
+                "left": 1.8076657458563534,
+                "top": 206.44423342541435
+            },
+            "points": [
+                {
+                    "x": 1.8076657458563534,
+                    "y": 206.44423342541435
+                },
+                {
+                    "x": 600,
+                    "y": 206.44423342541435
+                },
+                {
+                    "x": 600,
+                    "y": 402.8349447513812
+                },
+                {
+                    "x": 1.8076657458563534,
+                    "y": 402.8349447513812
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

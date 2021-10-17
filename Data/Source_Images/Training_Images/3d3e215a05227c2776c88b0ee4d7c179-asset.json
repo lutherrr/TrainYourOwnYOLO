@@ -1,0 +1,49 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "3d3e215a05227c2776c88b0ee4d7c179",
+        "name": "worm4.jpg",
+        "path": "file:/Users/lisek/Desktop/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/worm4.jpg",
+        "size": {
+            "width": 600,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "7VAWOpFZW",
+            "type": "RECTANGLE",
+            "tags": [
+                "worm",
+                "root"
+            ],
+            "boundingBox": {
+                "height": 502.99723756906076,
+                "width": 220.03798342541435,
+                "left": 223.7620856353591,
+                "top": 60.33926104972375
+            },
+            "points": [
+                {
+                    "x": 223.7620856353591,
+                    "y": 60.33926104972375
+                },
+                {
+                    "x": 443.80006906077347,
+                    "y": 60.33926104972375
+                },
+                {
+                    "x": 443.80006906077347,
+                    "y": 563.3364986187845
+                },
+                {
+                    "x": 223.7620856353591,
+                    "y": 563.3364986187845
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
